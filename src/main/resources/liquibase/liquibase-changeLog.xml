@@ -7,4 +7,6 @@
     <include file="changes/01-creat-smartfone.xml" relativeToChangelogFile="true"/>
     <include file="changes/02-creat-order.xml" relativeToChangelogFile="true"/>
     <include file="changes/03-creat-client.xml" relativeToChangelogFile="true"/>
+    <include file="changes/04-creat-adrress.xml" relativeToChangelogFile="true"/>
+    <include file="changes/05-creat-relation.xml" relativeToChangelogFile="true"/>
 </databaseChangeLog>
